@@ -1,0 +1,5 @@
+{
+  "name": "CoachERP – Coaching Institute ERP System",
+  "description": "A comprehensive ERP system tailored for coaching institutes. It features modules for student management, fee collection, academic planning, and administrative control, all secured with role-based access and approval workflows.",
+  "requestFramePermissions": []
+}
